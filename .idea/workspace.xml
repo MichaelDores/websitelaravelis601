@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b4b1bad-ffb9-4514-900e-a597c601edae" name="Default Changelist" comment="Adjusted procfile to fix Heroku issue" />
+    <list default="true" id="9b4b1bad-ffb9-4514-900e-a597c601edae" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/pages/home.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -56,19 +61,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/About.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="582">
-              <caret line="55" column="146" selection-start-line="55" selection-start-column="146" selection-end-line="55" selection-end-column="146" />
+            <state relative-caret-position="837">
+              <caret line="70" column="146" selection-start-line="70" selection-start-column="146" selection-end-line="70" selection-end-column="146" />
             </state>
           </provider>
         </entry>
@@ -242,6 +238,13 @@
             <path>
               <item name="IS601Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="IS601Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="routes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
@@ -316,7 +319,7 @@
       <workItem from="1551484331405" duration="6232000" />
       <workItem from="1551493284568" duration="24000" />
       <workItem from="1551536530033" duration="4606000" />
-      <workItem from="1551541463156" duration="6361000" />
+      <workItem from="1551541463156" duration="6625000" />
     </task>
     <task id="LOCAL-00001" summary="Laravel Setup">
       <created>1551490247197</created>
@@ -353,11 +356,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551536673289</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added various folders and files to the &quot;views&quot; folder">
+      <created>1551549383370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551549383370</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18776000" />
+    <option name="totallyTimeSpent" value="19040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -393,7 +403,8 @@
     <MESSAGE value="Adjusted name of welcome page" />
     <MESSAGE value="Created About.blade.php" />
     <MESSAGE value="Adjusted procfile to fix Heroku issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjusted procfile to fix Heroku issue" />
+    <MESSAGE value="Added various folders and files to the &quot;views&quot; folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added various folders and files to the &quot;views&quot; folder" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
@@ -420,8 +431,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="55" column="146" selection-start-line="55" selection-start-column="146" selection-end-line="55" selection-end-column="146" />
+        <state relative-caret-position="837">
+          <caret line="70" column="146" selection-start-line="70" selection-start-column="146" selection-end-line="70" selection-end-column="146" />
         </state>
       </provider>
     </entry>
@@ -462,6 +473,9 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/includes/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pages/home.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/home.blade.php">
