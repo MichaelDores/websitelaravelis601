@@ -1,4 +1,4 @@
 @extends('layouts.default')
 @section('content')
-    <h1>i am the about page</h1>
+    <h1 class="text-center">About Our Captain Eli Manning</h1>
 @stop

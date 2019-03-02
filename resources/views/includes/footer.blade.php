@@ -1,1 +1,1 @@
-<div id="copyright text-right">© Copyright 2013 Scotchy Scotch Scotch</div>
+<div id="footer-copyright text-center"> New York Giants - Established in 1925</div>

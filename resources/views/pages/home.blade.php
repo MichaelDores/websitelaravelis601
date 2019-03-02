@@ -1,4 +1,4 @@
 @extends('layouts.default')
 @section('content')
-    <h1>i am the home page</h1>
+    <h1 class="text-center">The New York Football Giants</h1>
 @stop

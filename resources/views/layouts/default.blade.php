@@ -10,13 +10,13 @@
         @include('includes.header')
     </header>
 
-    <div id="main" class="row">
+    <div id="main" class="row text-center">
 
         @yield('content')
 
     </div>
 
-    <footer class="row">
+    <footer class="container-fluid bg-dark text-white text-center">
         @include('includes.footer')
     </footer>
 
