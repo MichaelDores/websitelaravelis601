@@ -1,4 +1,1 @@
-<footer class="container">
-    <p class="float-right"><a href="#">Back to Top</a></p>
-<p></p>
-</footer>
+<div id="copyright text-right">© Copyright 2013 Scotchy Scotch Scotch</div>
