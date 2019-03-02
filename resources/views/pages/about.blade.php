@@ -1,5 +1,11 @@
 @extends('layouts.default')
 @section('content')
-    <h1 class="text-center">About Our Captain Eli Manning</h1>
-    <p class="col-sm-4">Eli Manning entered the league in 2004</p>
+    <br>
+    <div class="jumbotron">
+        <h1><bold><ins>About Our Captain Eli Manning</ins></bold></h1>
+    </div>
+    <br>
+    <br>
+    <p class="col-md-6">Eli Manning entered the league in 2004.  He was drafted by the Sand Diego Charges but was immediately
+    traded to the New York Giants.</p>
 @stop

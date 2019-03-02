@@ -5,6 +5,7 @@
             <ul class="nav navbar-nav">
                 <li href="active"><a href="/">Home</a></li>
                 <li><a href="/about">About Eli Manning</a></li>
+
             </ul>
             </div>
         </div>
