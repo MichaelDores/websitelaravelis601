@@ -17,7 +17,9 @@
     </div>
 
     <footer class="container-fluid bg-dark text-white text-center">
-        @include('includes.footer')
+        <div class="container">
+            @include('includes.footer')
+        </div>
     </footer>
 
 </div>

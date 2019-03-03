@@ -1,1 +1,1 @@
-<div id="copyright text-right"> New York Giants - Go Big Blue!!!</div>
+<div id="copyright text-center"> New York Giants - Go Big Blue!!!</div>
