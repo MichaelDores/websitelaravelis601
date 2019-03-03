@@ -5,23 +5,28 @@
 </head>
 <body>
 <div class="container">
-
-    <header class="row">
         @include('includes.header')
-    </header>
-
-    <div id="main" class="row text-center">
-
+    <main role = main>
         @yield('content')
-
-    </div>
-
-    <footer class="container-fluid bg-dark text-white text-center">
+    </main>
+    <footer class="row">
         <div class="container">
             @include('includes.footer')
+            <style>
+                footer {
+                    position: fixed;
+                    left: 0;
+                    bottom: 0;
+                    width: 100%;
+                    background-color: darkBlue;
+                    color: white;
+                    text-align: center;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            </style>
         </div>
     </footer>
-
 </div>
 </body>
 </html>

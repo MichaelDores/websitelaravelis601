@@ -2,10 +2,14 @@
 @section('content')
     <br>
     <div class="jumbotron">
-        <h1><bold><ins>About Our Captain Eli Manning</ins></bold></h1>
+        <h1 align="center"><bold><ins>About Our Captain Eli Manning</ins></bold></h1>
     </div>
     <br>
     <br>
-    <p class="col-md-6">Eli Manning entered the league in 2004.  He was drafted by the Sand Diego Charges but was immediately
+    <div class="col-md-6">
+        <h2 align="center">
+            Eli Manning Bio
+        </h2>
+    <p>Eli Manning entered the league in 2004.  He was drafted by the Sand Diego Charges but was immediately
     traded to the New York Giants.</p>
 @stop
