@@ -1,6 +1,5 @@
 @extends('layouts.default')
 @section('content')
-    <br>
     <div class="jumbotron jumbotron-fluid">
         <h1 align="center"><bold><ins>The New York Football Giants</ins></bold></h1>
     </div>
