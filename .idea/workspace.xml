@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b4b1bad-ffb9-4514-900e-a597c601edae" name="Default Changelist" comment="Added to homeand about pages">
+    <list default="true" id="9b4b1bad-ffb9-4514-900e-a597c601edae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/about.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/pages/about.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
+            <state relative-caret-position="493">
               <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding>
                 <element signature="e#1449#1475#0#HTML" expanded="true" />
@@ -238,11 +237,6 @@
             <path>
               <item name="IS601Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="config" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="IS601Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
@@ -271,11 +265,6 @@
               <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="pages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="IS601Laravel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="routes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -352,7 +341,7 @@
       <workItem from="1551536530033" duration="4606000" />
       <workItem from="1551541463156" duration="28134000" />
       <workItem from="1551635538165" duration="11306000" />
-      <workItem from="1551706168562" duration="4425000" />
+      <workItem from="1551706168562" duration="5334000" />
     </task>
     <task id="LOCAL-00001" summary="Laravel Setup">
       <created>1551490247197</created>
@@ -480,15 +469,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551648405521</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added to about page">
+      <created>1551710964493</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1551710964493</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56280000" />
+    <option name="totallyTimeSpent" value="57189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -550,7 +545,8 @@
     <MESSAGE value="Made changes to home and about pages.  Edited footer" />
     <MESSAGE value="Added to homeand about pages" />
     <MESSAGE value="Home and about pages were updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Home and about pages were updated" />
+    <MESSAGE value="Added to about page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added to about page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
@@ -650,7 +646,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/pages/about.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
+        <state relative-caret-position="493">
           <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding>
             <element signature="e#1449#1475#0#HTML" expanded="true" />
