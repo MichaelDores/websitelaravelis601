@@ -9,7 +9,7 @@
     <main role = main>
         @yield('content')
     </main>
-    <footer class="row">
+    <footer class="footer">
         <div class="container">
             @include('includes.footer')
             <style>
@@ -21,8 +21,7 @@
                     background-color: darkBlue;
                     color: white;
                     text-align: center;
-                    margin-left: auto;
-                    margin-right: auto;
+                    margin-top: 20px;
                 }
             </style>
         </div>

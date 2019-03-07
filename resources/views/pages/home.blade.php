@@ -24,7 +24,7 @@
     </div>
     <div class="col-md-6">
     <h2 align="center">Home of the Giants</h2>
-    <img src="http://www.dlrgroup.com/media/2967/58-11102-00_marquee-01.jpg" class="img-fluid img-thumbnail" alt="Giants" width="525" height="300">
+    <img src="http://www.dlrgroup.com/media/2967/58-11102-00_marquee-01.jpg" class="img-fluid img-thumbnail" alt="Giants" width="500" height="275">
     </div>
     <div class="col-md-6">
         <h2 align="center">Stadium Stats</h2>
