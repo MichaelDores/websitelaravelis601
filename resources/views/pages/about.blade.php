@@ -26,7 +26,7 @@
             The Highlight Machine
         </h2>
         <br>
-        <p style="text-align:center;">The video above provides a glimpe into Eli's career and clearly displays his excellence</p>
+        <h4 style="text-align:center;">The video below provides a glimpe into Eli's career.</h4>
         <iframe align="center" width="530" height="275" src="https://www.youtube.com/embed/Hs5KWl5EOGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     </div>
