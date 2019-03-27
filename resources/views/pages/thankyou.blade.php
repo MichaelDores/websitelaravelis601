@@ -5,5 +5,5 @@
     <br>
     <br>
     <br>
-    <img src="https://howigit.files.wordpress.com/2010/10/eli.jpg" class="img-fluid img-thumbnail" alt="Giants" width="400" height="175">
+    <img src="https://howigit.files.wordpress.com/2010/10/eli.jpg" align="center" class="img-fluid img-thumbnail" alt="Giants" width="400" height="175">
 @stop
