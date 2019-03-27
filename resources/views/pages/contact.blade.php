@@ -56,7 +56,7 @@
             <div class="col-md-12">
                 <div class="form-group">
                     <label for="form_message">Message</label>
-                    <textarea id="form_message" name="message" class="form-control" placeholder="Message for me" rows="4"></textarea>
+                    <textarea id="form_message" name="message" class="form-control" placeholder="Message for the NYG" rows="4"></textarea>
                     <div class="help-block with-errors"></div>
                 </div>
             </div>
