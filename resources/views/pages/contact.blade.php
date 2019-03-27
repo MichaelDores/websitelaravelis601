@@ -6,7 +6,7 @@
         <p class ="lead">Contact Us</p></div>
 
 
-<form method="post" action=/contact role="form">
+<form method="post" action="{{route('contact.store')}}" role="form">
 
     {{ csrf_field() }}
 
